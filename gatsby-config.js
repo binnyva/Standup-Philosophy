@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Standup Philosohpy`,
-    description: `I am a stand-up philosopher. That means I talk about philosophy for the sake of entertainment rather than enlightenment. But if you get slightly enlightened as a result, I would consider that as a happy side effect.`,
+    description: `I am a stand-up philosopher. That means I talk about philosophy for the sake of entertainment rather than enlightenment. But if you get slightly enlightened as a result, I would consider that a happy side effect.`,
     author: `Binny V A`,
     siteUrl: `http://blog.binnyva.com/`,
     social: {
@@ -59,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-178476380-1`,
       },
     },
     `gatsby-plugin-feed`,

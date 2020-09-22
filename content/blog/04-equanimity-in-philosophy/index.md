@@ -1,5 +1,5 @@
 ---
-title: The Rationality OS
+title: Equanimity in Philosophy
 date: 2020-08-08 00:00:00 +0530
 description: If your brain is the hardware, your behavior is the programming. Your attributes or character is the firmware(permanent software that comes bundled with the hardware). It comes with the hardware, its built by other people/external situations – and its very difficult to modify. To get this system to a more functional point, you need a good OS on top of these things – an Operating System for the Mind.
 img: ./eq.jpg

@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
       <DefaultLayout>
         <SEO
           title={siteTitle}
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`psychology`, `philosophy`, `rationality`, `programming`, `osm`, `standup`, 'philosopher']}
         />
         <div className="content-box clearfix">
           {posts.map(({ node }) => {
@@ -94,6 +94,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: {frontmatter: {draft: {ne: true}}}
       limit: $limit
       skip: $skip
     ) {
@@ -107,6 +108,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "YYYY, MMM DD")
             title
+            draft
             img {
               childImageSharp {
                 fluid(maxWidth: 3720) {

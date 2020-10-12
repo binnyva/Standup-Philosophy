@@ -13,6 +13,7 @@ exports.createPages = ({ graphql, actions }) => {
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
+          filter: {frontmatter: {draft: {ne: true}}}
           limit: 1000
         ) {
           edges {
@@ -23,6 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
               frontmatter {
                 title
                 tags
+                draft
                 img {
                   childImageSharp {
                     fluid(maxWidth: 3720) {

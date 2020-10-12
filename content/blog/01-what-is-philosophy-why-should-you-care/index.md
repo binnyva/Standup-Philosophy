@@ -1,9 +1,10 @@
 ---
 title: What is Philosophy and Why should you care
 date: 2020-04-01 00:00:00 +0530
-description: I am a stand-up philosopher. That means I talk about philosophy for the sake of entertainment rather than enlightenment. But if you get slightly enlightened as a result, I would consider that as a happy side effect.
+excerpt: I am a stand-up philosopher. That means I talk about philosophy for the sake of entertainment rather than enlightenment. But if you get slightly enlightened as a result, I would consider that as a happy side effect.
 img: ./standup-greek-philosapher.jpg
 tags: [objective, osm, philosophy,reality,standup,subjuctive]
+draft: false
 ---
 
 I am a stand-up philosopher. That means **I talk about philosophy for the sake of entertainment rather than enlightenment**. But if you get slightly enlightened as a result, I would consider that as a happy side effect.

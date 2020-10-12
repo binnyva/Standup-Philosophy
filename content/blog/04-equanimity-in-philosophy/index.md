@@ -1,9 +1,10 @@
 ---
 title: Equanimity in Philosophy
 date: 2020-08-08 00:00:00 +0530
-description: If your brain is the hardware, your behavior is the programming. Your attributes or character is the firmware(permanent software that comes bundled with the hardware). It comes with the hardware, its built by other people/external situations – and its very difficult to modify. To get this system to a more functional point, you need a good OS on top of these things – an Operating System for the Mind.
+excerpt: If your brain is the hardware, your behavior is the programming. Your attributes or character is the firmware(permanent software that comes bundled with the hardware). It comes with the hardware, its built by other people/external situations – and its very difficult to modify. To get this system to a more functional point, you need a good OS on top of these things – an Operating System for the Mind.
 img: ./eq.jpg
 tags: [brain,os,osm,rationality,philosophy]
+draft: false
 ---
 
 Equanimity. A word I can neither spell nor pronounce correctly – yet I epitomize it for many people. I define it as being content. It means that you have a calm and even mind no matter what going on around you. I have that. My base state is slightly happy(lets say, +0.3). Something really good happens, I get slightly more happy – (think +0.5). Something bad happens, its goes a bit down – but not really sad(-0.2). I can never go to the extremes – neither the euphoria(+1) nor the depression(-1). Because of this, all my friends think that I don’t have emotions(as evidenced by my use of numbers to quantify emotions). Well, they are wrong. I have emotions – just muted ones.
@@ -121,4 +122,4 @@ Its really difficult because we are using the tools given by philosophy to get t
 
 ![Philosophers when asking question vs Philosophers when answering them](./phil_questions_vs_answers.jpg)
 
-To find a better answer to this, we have a better tool: Psychology. But I'll save that for the next article.
+To find a better answer to this, we have a better tool: Psychology. But I'll save that for [the next article](https://standup-philosophy.netlify.app/04-equanimity-in-philosophy/05-psychological-equanimity).

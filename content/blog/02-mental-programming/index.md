@@ -1,12 +1,11 @@
 ---
 title: Mental Programming
 date: 2020-05-31 00:00:00 +0530
-description: You have very elaborate programming in your minds. You can understand it using psychology. Your internal programming has bugs, can be hacked and can be improved.
+excerpt: You have very elaborate programming in your minds. You can understand it using psychology. Your internal programming has bugs, can be hacked and can be improved.
 img: ./mental_programming.jpg
 tags: [brain,brain-bugs,brain-hacks,osm,philosohpy,programming,psychology]
+draft: false
 ---
-
-# Mental Programming
 
 In the [last article about philosophy](http://blog.binnyva.com/2020/04/what-is-philosophy-and-why-should-you-care/), I introduced you to **subjective reality** - a reality that is created by your beliefs. You can **change your beliefs to change that reality**. 
 

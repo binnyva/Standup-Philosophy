@@ -1,9 +1,10 @@
 ---
 title: The Rationality OS
 date: 2020-06-30 00:00:00 +0530
-description: If your brain is the hardware, your behavior is the programming. Your attributes or character is the firmware(permanent software that comes bundled with the hardware). It comes with the hardware, its built by other people/external situations – and its very difficult to modify. To get this system to a more functional point, you need a good OS on top of these things – an Operating System for the Mind.
+excerpt: If your brain is the hardware, your behavior is the programming. Your attributes or character is the firmware(permanent software that comes bundled with the hardware). It comes with the hardware, its built by other people/external situations – and its very difficult to modify. To get this system to a more functional point, you need a good OS on top of these things – an Operating System for the Mind.
 img: ./hard-drive-brain.png
 tags: [brain,os,osm,rationality,philosophy]
+draft: false
 ---
 
 In my [last article](http://blog.binnyva.com/2020/05/mental-programming/), I talked about mental programming. How your actions are a result of elaborate programming in your brain and how psychology is the study of that programming. In this article I'm taking that idea further.

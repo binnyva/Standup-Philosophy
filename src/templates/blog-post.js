@@ -47,6 +47,13 @@ class BlogPostTemplate extends React.Component {
                       </span>
                     ))}
                   </div>
+
+                  <div className="page-nav">
+                    <div className="page-previous">{ previous ? 
+                      <Link to={previous.fields.slug}>&lt; {previous.frontmatter.title}</Link> : '\u00A0' }</div>
+                    <div className="page-next">{ next ? 
+                      <Link to={next.fields.slug}>{next.frontmatter.title} &gt;</Link> : '\u00A0' }</div>
+                  </div>
                 </div>
               </div>
             </div>

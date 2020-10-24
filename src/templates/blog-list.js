@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
           keywords={[`psychology`, `philosophy`, `rationality`, `programming`, `osm`, `standup`, 'philosopher']}
         />
         <div className="content-box clearfix">
-          {posts.map(({ node }) => {
+          {posts.reverse().map(({ node }, index) => { // Reverse because we are showing it in order.
             return (
               <article className="post" key={node.fields.slug}>
                 {node.frontmatter.img &&
@@ -38,7 +38,7 @@ class BlogIndex extends React.Component {
                   )}
                 <div className="post-content">
                   <h2 className="post-title">
-                    <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                    <Link to={node.fields.slug}>{index + 1}. {node.frontmatter.title}</Link>
                   </h2>
                   <p>{node.excerpt}</p>
                   <span className="post-date">

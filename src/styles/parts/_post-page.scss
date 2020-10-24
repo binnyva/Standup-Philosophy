@@ -51,12 +51,8 @@
 }
 
 .page-footer {
-  display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
-  padding-bottom: 30px;
-  margin: 30px 0  ;
-  border-bottom: 1px solid $dark-gray;
+ 
   .page-share {
     margin-bottom: 10px;
     text-align: left;
@@ -79,6 +75,9 @@
     }
   }
   .page-tag {
+    padding-bottom: 30px;
+    border-bottom: 1px solid $dark-gray;
+    margin: 30px 0 ;
     span {
       text-decoration: none;
       font-size: 10px;
@@ -89,4 +88,16 @@
       border: 1px solid $dark-blue;
     }
   }
+
+  .page-nav {
+    display: flex;
+    div {
+      flex: 50%;
+    }
+    .page-next {
+      text-align: right;
+    }
+  }
+
 }
+

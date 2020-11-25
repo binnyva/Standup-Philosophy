@@ -122,4 +122,4 @@ Its really difficult because we are using the tools given by philosophy to get t
 
 ![Philosophers when asking question vs Philosophers when answering them](./phil_questions_vs_answers.jpg)
 
-To find a better answer to this, we have a better tool: Psychology. But I'll save that for [the next article](https://standup-philosophy.netlify.app/04-equanimity-in-philosophy/05-psychological-equanimity).
+To find a better answer to this, we have a better tool: Psychology. But I'll save that for [the next article](https://standup-philosophy.netlify.app/05-psychological-equanimity/).

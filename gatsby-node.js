@@ -8,6 +8,7 @@ exports.createPages = ({ graphql, actions }) => {
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const tagTemplate = path.resolve(`./src/templates/tags.js`)
 
+  // This had `filter: {frontmatter: {draft: {ne: true}}}` after the sort line - but I removed it.
   return graphql(
     `
       {
